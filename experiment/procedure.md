@@ -66,4 +66,4 @@
 19. Calculate all the variables and determine the shrinkage limit of the given soil sample based on the collected data.
 <br>
 <img src="images/52.png"><br><br>
-<img src="images/53.png"><br>
+<img src="images/53.png"><br><br>
