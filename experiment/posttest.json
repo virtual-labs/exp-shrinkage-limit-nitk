@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the density of mercury?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "13.6 g/cm<sup>3</sup>",
+        "b": "13.09 g/cm<sup>3</sup>",
+        "c": "13.0 g/cm<sup>3</sup>",
+        "d": "13.2 kg/cm<sup>3</sup>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The density of mercury is 13.6g/cm<sup>3</sup>",
+        "b": "The density of mercury is 13.6g/cm<sup>3</sup> and not 13.09g/cm<sup>3</sup>",
+        "c": "The density of mercury is 13.6g/cm<sup>3</sup> and not 13.0g/cm<sup>3</sup>",
+        "d": "The density of mercury is 13.6g/cm<sup>3</sup> and not 13.2g/cm<sup>3</sup>"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The consistency limits of soil are expressed in terms of __________.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Percent water content",
+        "b": "Area",
+        "c": "Volume",
+        "d": "No unit"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "By the definition of Atterberg's Limits we know that the amount of water is what defines the state of soil and thus the consistency limits are expressed as percent water content.",
+        "b": "By the definition of Atterberg’s Limits we know that the amount of water is what defines the state of soil and as the area does not play any role in consistency limits, it cannot be expressed in terms of area.",
+        "c": "By the definition of Atterberg’s Limits we know that the amount of water is what defines the state of soil and as the volume does not play any role in consistency limits, it cannot be expressed in terms of volume.",
+        "d": "By the definition of Atterberg’s Limits we know that the amount of water is what defines the state of soil and as the area and volume do not play any role in consistency limits, it cannot be expressed in terms of area as well as volume."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The formula to calculate weight of dry soil (W<sub>d</sub>) is ___________ .",
+      "answers": {
+        "a": "W<sub>3</sub>",
+        "b": "W<sub>3</sub>-W<sub>1</sub>",
+        "c": "W<sub>1</sub>-W<sub>2</sub>",
+        "d": "W<sub>4</sub>-W<sub>1</sub>"
+      },
+      "explanations": {
+        "a": "According to the nomenclature used in the experiment W<sub>3</sub> is the weight of dry soil pat along with the shrinkage cup.",
+        "b": "According to the nomenclature used in the experiment W<sub>3</sub> is the weight of dry soil pat along with the shrinkage cup and W<sub>1</sub> is the empty weight of shrinkage cup. Thus W<sub>3</sub> - W<sub>1</sub> gives us the weight of dry soil pat.",
+        "c": "According to the nomenclature used in the experiment W<sub>1</sub> is the empty weight of a shrinkage cup and W<sub>2</sub> is the weight of wet soil with the shrinkage cup. The difference between these two values does not give the weight of dry soil pat.",
+        "d": "According to the nomenclature used in the experiment, W<sub>1</sub> is the empty weight of a shrinkage cup and W<sub>4</sub> is the weight of wet soil. The difference between these two values does not give the weight of dry soil pat."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Volume of wet soil pat is equal to ____________ .",
+      "answers": {
+        "a": "Volume of shrinkage cup",
+        "b": "Volume of mercury held in shrinkage cup",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "As the wet soil is completely filled inside the shrinkage cup, the volume of wet soil pat will be equal to the volume of the shrinkage cup. This is a partially correct answer as the volume of wet soil pat is also equal to the volume of mercury held inside the shrinkage cup.",
+        "b": "As the wet soil is completely filled inside the shrinkage cup, the volume of wet soil pat will be equal to the volume of mercury held in the shrinkage cup. This is a partially correct answer as the volume of wet soil pat is also equal to the volume of shrinkage cup.",
+        "c": "As the wet soil is completely filled inside the shrinkage cup, the volume of wet soil pat will be equal to the volume of the shrinkage cup and  the volume of wet soil pat is also equal to the volume of mercury held inside the shrinkage cup. Thus both a and b are the correct option.",
+        "d": "As the wet soil is completely filled inside the shrinkage cup, the volume of wet soil pat will be equal to the volume of the shrinkage cup and  the volume of wet soil pat is also equal to the volume of mercury held inside the shrinkage cup."
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Shrinkage limit is used to distinguish between which two states?",
+      "answers": {
+        "a": "Semi-solid and liquid state",
+        "b": "Solid and semi-solid state",
+        "c": "Liquid and plastic state",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "According to Atterberg's limits and its corresponding graph, we know that the plastic state is what lies between the semi-solis and the liquid state.",
+        "b": "According to Atterberg's limits and its corresponding graph, we know that shrinkage limit is the limit which distinguishes between the solid and the semi-solid state of soil.",
+        "c": "According to Atterberg's limit and its corresponding graph, we know that liquid limit is what distinguishes between the plastic and liquid state of soil.",
+        "d": "According to Atterberg's limits and its corresponding graph, we know that shrinkage limit is the limit which distinguishes between the solid and the semi-solid state of soil."
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
