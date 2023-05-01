@@ -1,1 +1,1 @@
-## Determination of Shrinkage limit for cohesive soils
+## Determination of shrinkage limit for cohesive soils
