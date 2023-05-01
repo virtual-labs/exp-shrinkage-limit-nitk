@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The Swedish agriculturist who derived the consistency limits is ",
+      "question": "The Swedish agriculturist who derived the consistency limits is ________________ .",
       "answers": {
         "a": "Westergaard",
         "b": "Nikola Tesla",
@@ -53,7 +53,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "The atterberg limit which differentiates between semi-solid and plastic state is ________.",
+      "question": "The atterberg limit which differentiates between semi-solid and plastic state is ________________ .",
       "answers": {
         "a": "Plastic limit",
         "b": "Shrinkage limit",
@@ -70,7 +70,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "___________  code is used for the conduction of Shrinkage limit test.",
+      "question": "________________  code is used for the conduction of Shrinkage limit test.",
       "answers": {
         "a": "IS 2720 - 1974 (part III)",
         "b": "IS 2720 - 1972 (part IV)",

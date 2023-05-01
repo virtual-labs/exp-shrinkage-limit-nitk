@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The consistency limits of soil are expressed in terms of __________.",
+      "question": "The consistency limits of soil are expressed in terms of ________________ .",
       "answers": {
         "a": "Percent water content",
         "b": "Area",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The formula to calculate weight of dry soil (W<sub>d</sub>) is ___________ .",
+      "question": "The formula to calculate weight of dry soil (W<sub>d</sub>) is ________________ .",
       "answers": {
         "a": "W<sub>3</sub>",
         "b": "W<sub>3</sub>-W<sub>1</sub>",
@@ -53,7 +53,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "Volume of wet soil pat is equal to ____________ .",
+      "question": "Volume of wet soil pat is equal to ________________ .",
       "answers": {
         "a": "Volume of shrinkage cup",
         "b": "Volume of mercury held in shrinkage cup",
