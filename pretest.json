@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following apparatus is not used in shrinkage limit testing?",
+      "answers": {
+        "a": "Porcelain evaporating dish",
+        "b": "Two glass plates",
+        "c": "Screw",
+        "d": "Stainless steel shrinking dish"
+      },
+      "explanations": {
+        "a": "The porcelain evaporating dish is used in the shrinkage limit test.",
+        "b": "Two glass plates are used in the shrinkage limit test to remove excess volume of mercury or soil.",
+        "c": "Screws are not used in any way in the shrinkage limit experiment.",
+        "d": "Stainless steel shrinking dish is used to create the dry soil pat in the shrinkage limit experiment."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The Swedish agriculturist who derived the consistency limits is ________________ .",
+      "answers": {
+        "a": "Westergaard",
+        "b": "Nikola Tesla",
+        "c": "Boussinesq",
+        "d": "Atterberg"
+      },
+      "explanations": {
+        "a": "The Swedish agriculturist who derived the  consistency limit is Atterberg, thus Westergaard is an incorrect option.",
+        "b": "The Swedish agriculturist who derived the  consistency limit is Atterberg, thus Nikola Tesla is an incorrect option.",
+        "c": "The Swedish agriculturist who derived the  consistency limit is Atterberg, thus Boussinesq is an incorrect option.",
+        "d": "The Swedish agriculturist who derived the  consistency limit is Atterberg."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not considered as one of the states in Atterberg's limit?",
+      "answers": {
+        "a": "Solid state",
+        "b": "Gaseous state",
+        "c": "Semi-solid state",
+        "d": "Liquid state"
+      },
+      "explanations": {
+        "a": "In the Atterberg’s consistency limits, the first limit range is the solid state.",
+        "b": "In the Atterberg’s consistency limits, gaseous state is not included.",
+        "c": "In the Atterberg’s consistency limits, the second limit range is the semi-solid state.",
+        "d": "In the Atterberg’s consistency limits, the last limit range is the liquid state."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The atterberg limit which differentiates between semi-solid and plastic state is ________________ .",
+      "answers": {
+        "a": "Plastic limit",
+        "b": "Shrinkage limit",
+        "c": "Liquid limit",
+        "d": "Consistency limit"
+      },
+      "explanations": {
+        "a": "According to Atterberg's Consistency limit, the plastic limit differentiates between semi-solid and plastic states.",
+        "b": "According to Atterberg's Consistency limit, Shrinkage limit differentiates between solid and semi-solid states.",
+        "c": "According to Atterberg's Consistency limit, Liquid limit differentiates between plastic and liquid states.",
+        "d": "According to Atterberg's Consistency limit, the plastic limit differentiates between semi-solid and plastic states."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "________________  code is used for the conduction of Shrinkage limit test.",
+      "answers": {
+        "a": "IS 2720 - 1974 (part III)",
+        "b": "IS 2720 - 1972 (part IV)",
+        "c": "IS 2721 - 1972 (part II)",
+        "d": "IS 2724 - 1972 (part IV)"
+      },
+      "explanations": {
+        "a": "IS 2720-1972(part IV) is the codebook used for the conduction of shrinkage limit tests and the code book was not published in 1974.",
+        "b": "IS 2720-1972(part IV) is the codebook used for the conduction of shrinkage limit test.",
+        "c": "IS 2720-1972(part IV) is the codebook used for the conduction of shrinkage limit tests. IS 2721 - 1972 (part II) is not the code book for the Shrinkage limit test.",
+        "d": "IS 2720-1972(part IV) is the codebook used for the conduction of shrinkage limit tests. IS 2724 - 1972 (part IV) is not the code book for the Shrinkage limit test."
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    }
+  ]
+}
