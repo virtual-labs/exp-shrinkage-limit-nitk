@@ -59,4 +59,4 @@ W<sub>d</sub>		= weight of dry soil
 </p>
 
 <strong>IS code references :</strong></br>
-IS: 2720 - 1972 (part IV) : Determination of shrinkage factors.
+IS: 2720 - 1972 (part VI) : Determination of shrinkage factors.
