@@ -15,9 +15,9 @@
     Contributors :
     <ul style="list-style-type: none;">
     <li>Anusha B Salian | NITK</li>
-    <li>Mahima N| NITK</li>
-    <li>Ashika Pai| NITK</li>
-    <li>Aishwarya Shetty| NITK</li>
+    <li>Mahima N | NITK</li>
+    <li>Ashika Pai | NITK</li>
+    <li>Aishwarya Shetty | NITK</li>
     </ul></td>
   </tr>
 </table>
